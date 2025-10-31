@@ -1,0 +1,1289 @@
+afghanistan
+albania
+algeria
+andorra
+angola
+antigua
+argentina
+armenia
+australia
+austria
+azerbaijan
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bhutan
+bolivia
+bosnia
+botswana
+brazil
+brunei
+bulgaria
+burkina
+burundi
+cambodia
+cameroon
+canada
+verde
+african
+chad
+chile
+china
+colombia
+comoros
+congo
+costa
+croatia
+cuba
+cyprus
+czech
+denmark
+djibouti
+dominica
+dominican
+ecuador
+egypt
+salvador
+guinea
+eritrea
+estonia
+eswatini
+ethiopia
+fiji
+finland
+france
+gabon
+gambia
+georgia
+germany
+ghana
+greece
+grenada
+guatemala
+guinea
+bissau
+guyana
+haiti
+honduras
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+israel
+italy
+jamaica
+japan
+jordan
+kazakhstan
+kenya
+kiribati
+korea
+kosovo
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall
+mauritania
+mauritius
+mexico
+micronesia
+moldova
+monaco
+mongolia
+montenegro
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+zealand
+nicaragua
+niger
+nigeria
+macedonia
+norway
+oman
+pakistan
+palau
+palestine
+panama
+papua
+paraguay
+peru
+philippines
+poland
+portugal
+qatar
+romania
+russia
+rwanda
+kitts
+lucia
+vincent
+samoa
+marino
+saudi
+senegal
+serbia
+seychelles
+sierra
+singapore
+slovakia
+slovenia
+solomon
+somalia
+africa
+sudan
+spain
+lanka
+sudan
+suriname
+sweden
+switzerland
+syria
+taiwan
+tajikistan
+tanzania
+thailand
+togo
+tonga
+trinidad
+tunisia
+turkey
+turkmenistan
+tuvalu
+uganda
+ukraine
+arab
+kingdom
+states
+uruguay
+uzbekistan
+vanuatu
+vatican
+venezuela
+vietnam
+yemen
+zambia
+zimbabwe
+kabul
+tirana
+algiers
+andorra
+luanda
+johns
+buenos
+yerevan
+canberra
+vienna
+baku
+nassau
+manama
+dhaka
+bridgetown
+minsk
+brussels
+belmopan
+porto
+thimphu
+sucre
+sarajevo
+gaborone
+brasilia
+bandar
+sofia
+ouagadougou
+gitega
+phnom
+yaounde
+ottawa
+praia
+bangui
+ndjamena
+santiago
+beijing
+bogota
+moroni
+brazzaville
+jose
+zagreb
+havana
+nicosia
+prague
+copenhagen
+djibouti
+roseau
+santo
+quito
+cairo
+san
+malabo
+asmara
+tallinn
+mbabane
+addis
+suva
+helsinki
+paris
+libreville
+banjul
+tbilisi
+berlin
+accra
+athens
+saint
+guatemala
+conakry
+bissau
+georgetown
+port
+tegucigalpa
+budapest
+reykjavik
+new
+jakarta
+tehran
+baghdad
+dublin
+jerusalem
+rome
+kingston
+tokyo
+amman
+nur
+nairobi
+tarawa
+pyongyang
+seoul
+pristina
+kuwait
+bishkek
+vientiane
+riga
+beirut
+maseru
+monrovia
+tripoli
+vaduz
+vilnius
+luxembourg
+antananarivo
+lilongwe
+kuala
+male
+bamako
+valletta
+majuro
+nouakchott
+louis
+mexico
+palikir
+chisinau
+monaco
+ulaanbaatar
+podgorica
+rabat
+maputo
+naypyidaw
+windhoek
+yaren
+kathmandu
+amsterdam
+wellington
+managua
+niamey
+abuja
+skopje
+oslo
+muscat
+islamabad
+ngerulmud
+ramallah
+panama
+moresby
+asuncion
+lima
+manila
+warsaw
+lisbon
+doha
+bucharest
+moscow
+kigali
+basseterre
+castries
+kingstown
+apia
+san
+riyadh
+dakar
+belgrade
+victoria
+freetown
+singapore
+bratislava
+ljubljana
+honiara
+mogadishu
+pretoria
+juba
+madrid
+colombo
+khartoum
+paramaribo
+stockholm
+bern
+damascus
+taipei
+dushanbe
+dodoma
+bangkok
+lome
+nukualofa
+spain
+tunis
+ankara
+ashgabat
+funafuti
+kampala
+kyiv
+abu
+london
+washington
+montevideo
+tashkent
+port
+vatican
+caracas
+hanoi
+sanaa
+lusaka
+harare
+american
+argentine
+australian
+austrian
+bangladeshi
+belgian
+brazilian
+british
+canadian
+chilean
+chinese
+colombian
+cuban
+danish
+dutch
+egyptian
+filipino
+finnish
+french
+german
+greek
+hungarian
+icelandic
+indian
+indonesian
+iranian
+iraqi
+irish
+israeli
+italian
+japanese
+kenyan
+malaysian
+mexican
+moroccan
+nigerian
+norwegian
+pakistani
+peruvian
+polish
+portuguese
+russian
+saudi
+scottish
+singaporean
+african
+korean
+spanish
+swedish
+swiss
+thai
+turkish
+ukrainian
+venezuelan
+vietnamese
+welsh
+alps
+amazon
+andes
+antarctica
+arctic
+atlantic
+baikal
+baltic
+caribbean
+caspian
+caucasus
+danube
+everest
+galapagos
+ganges
+gobi
+himalayas
+kilimanjaro
+mediterranean
+mekong
+mississippi
+nile
+pacific
+pyrenees
+rocky
+sahara
+siberia
+thames
+tiber
+ural
+volga
+yangtze
+zambezi
+acapulco
+adelaide
+alexandria
+antwerp
+auckland
+baghdad
+barcelona
+belem
+belfast
+benghazi
+bergen
+birmingham
+bogota
+bombay
+bordeaux
+bremen
+brisbane
+bristol
+bruges
+brussels
+bucharest
+calcutta
+calgary
+capetown
+casablanca
+cebu
+chicago
+cologne
+copenhagen
+corinth
+curitiba
+dakar
+dallas
+damascus
+delhi
+detroit
+dresden
+dubai
+dublin
+durban
+edinburgh
+edmonton
+florence
+frankfurt
+fukuoka
+gdansk
+geneva
+genoa
+glasgow
+guangzhou
+hamburg
+hanoi
+havana
+helsinki
+hiroshima
+honolulu
+houston
+istanbul
+izmir
+jakarta
+jeddah
+jerusalem
+johannesburg
+karachi
+kiev
+kingston
+kinshasa
+kobe
+krakow
+kyoto
+lagos
+lahore
+lausanne
+leeds
+leipzig
+lima
+lisbon
+liverpool
+london
+angeles
+lyon
+madrid
+malmo
+manchester
+manila
+marseille
+mecca
+melbourne
+memphis
+milan
+mombasa
+monterrey
+montreal
+moscow
+mumbai
+munich
+nagasaki
+nagoya
+nairobi
+naples
+nassau
+orleans
+york
+osaka
+oslo
+palermo
+paris
+perth
+philadelphia
+phoenix
+prague
+quebec
+quito
+rabat
+reykjavik
+riga
+rio
+riyadh
+rome
+rotterdam
+salvador
+francisco
+santiago
+santo
+sapporo
+seattle
+seoul
+seville
+shanghai
+shenzhen
+sofia
+stockholm
+stuttgart
+sydney
+taipei
+tehran
+aviv
+thessaloniki
+tianjin
+tokyo
+toronto
+tripoli
+tunis
+turin
+valencia
+vancouver
+venice
+vienna
+vilnius
+warsaw
+washington
+wellington
+winnipeg
+yokohama
+zagreb
+zurich
+angkor
+acropolis
+alhambra
+borobudur
+chichen
+christ
+colosseum
+eiffel
+wall
+gate
+hagia
+itsukushima
+kremlin
+louvre
+machu
+mecca
+moai
+mont
+neuschwanstein
+petra
+pyramids
+red
+rushmore
+sagrada
+statue
+stonehenge
+sydney
+taj
+teotihuacan
+forbidden
+versailles
+abuja
+accra
+alexandria
+almaty
+ankara
+auckland
+bangalore
+bangkok
+barcelona
+basel
+beirut
+belfast
+bergen
+birmingham
+boston
+brisbane
+brno
+cairo
+calgary
+cambridge
+cape
+cardiff
+cebu
+charlotte
+chennai
+christchurch
+cologne
+dalian
+denver
+dortmund
+dresden
+durban
+dusseldorf
+edinburgh
+eindhoven
+essen
+florence
+frankfurt
+fukuoka
+geneva
+genoa
+glasgow
+gothenburg
+graz
+hague
+haifa
+hamburg
+hamilton
+hangzhou
+hanover
+hempstead
+hyderabad
+incheon
+indianapolis
+innsbruck
+jacksonville
+jerusalem
+jinan
+johannesburg
+kano
+karlsruhe
+kitakyushu
+kobe
+krakow
+kyoto
+lagos
+leeds
+leipzig
+liege
+lille
+limassol
+linz
+lisbon
+liverpool
+lodz
+lyon
+malaga
+malmo
+manchester
+marseille
+medan
+medellin
+melbourne
+milan
+minneapolis
+minsk
+monterrey
+montpellier
+montreal
+nagoya
+nantes
+naples
+newcastle
+nice
+nuremberg
+osaka
+palermo
+palma
+perth
+phnom
+pittsburgh
+portland
+porto
+poznan
+prague
+preston
+qinhuangdao
+qingdao
+quezon
+riga
+rosario
+rotterdam
+sacramento
+salzburg
+antonio
+diego
+jose
+petersburg
+seongnam
+seville
+shanghai
+shenyang
+shenzhen
+sofia
+stockholm
+strasbourg
+stuttgart
+suzhou
+sydney
+taichung
+tainan
+taipei
+tampere
+tarsus
+tbilisi
+thessaloniki
+tianjin
+tijuana
+toulouse
+turin
+turku
+ulsan
+utrecht
+valencia
+vancouver
+vienna
+vilnius
+warsaw
+wellington
+wiesbaden
+winnipeg
+wroclaw
+wuhan
+wuxi
+xian
+xiamen
+yokohama
+zagreb
+zaragoza
+zhanjiang
+zhengzhou
+zurich
+ kabul
+ tirana
+ algiers
+ luanda
+ buenos
+ yerevan
+ canberra
+ vienna
+ baku
+ nassau
+ manama
+ dhaka
+ bridgetown
+ minsk
+ brussels
+ belmopan
+ porto
+ thimphu
+ sucre
+ sarajevo
+ gaborone
+ brasilia
+ bandar
+ sofia
+ ouagadougou
+ gitega
+ phnom
+ yaounde
+ ottawa
+ praia
+ bangui
+ ndjamena
+ santiago
+ beijing
+ bogota
+ moroni
+ brazzaville
+ jose
+ zagreb
+ havana
+ nicosia
+ prague
+ copenhagen
+ djibouti
+ roseau
+ santo
+ quito
+ cairo
+ san
+ malabo
+ asmara
+ tallinn
+ mbabane
+ addis
+ suva
+ helsinki
+ paris
+ libreville
+ banjul
+ tbilisi
+ berlin
+ accra
+ athens
+ saint
+ guatemala
+ conakry
+ bissau
+ georgetown
+ port
+ tegucigalpa
+ budapest
+ reykjavik
+ new
+ jakarta
+ tehran
+ baghdad
+ dublin
+ jerusalem
+ rome
+ kingston
+ tokyo
+ amman
+ nur
+ nairobi
+ tarawa
+ pyongyang
+ seoul
+ pristina
+ kuwait
+ bishkek
+ vientiane
+ riga
+ beirut
+ maseru
+ monrovia
+ tripoli
+ vaduz
+ vilnius
+ luxembourg
+ antananarivo
+ lilongwe
+ kuala
+ male
+ bamako
+ valletta
+ majuro
+ nouakchott
+ louis
+ mexico
+ palikir
+ chisinau
+ monaco
+ ulaanbaatar
+ podgorica
+ rabat
+ maputo
+ naypyidaw
+ windhoek
+ yaren
+ kathmandu
+ amsterdam
+ wellington
+ managua
+ niamey
+ abuja
+ skopje
+ oslo
+ muscat
+ islamabad
+ ngerulmud
+ ramallah
+ panama
+ moresby
+ asuncion
+ lima
+ manila
+ warsaw
+ lisbon
+ doha
+ bucharest
+ moscow
+ kigali
+ basseterre
+ castries
+ kingstown
+ apia
+ san
+ riyadh
+ dakar
+ belgrade
+ victoria
+ freetown
+ singapore
+ bratislava
+ ljubljana
+ honiara
+ mogadishu
+ pretoria
+ juba
+ madrid
+ colombo
+ khartoum
+ paramaribo
+ stockholm
+ bern
+ damascus
+ taipei
+ dushanbe
+ dodoma
+ bangkok
+ lome
+ nukualofa
+ spain
+ tunis
+ ankara
+ ashgabat
+ funafuti
+ kampala
+ kyiv
+ abu
+ london
+ washington
+ montevideo
+ tashkent
+ port
+ vatican
+ caracas
+ hanoi
+ sanaa
+ lusaka
+ harare
+ andean
+ arabian
+ atacama
+ balkan
+ black
+ congo
+ danube
+ euphrates
+ himalayan
+ hudson
+ indus
+ kalahari
+ karakoram
+ mackenzie
+ magellan
+ mediterranean
+ mekong
+ murray
+ niger
+ patagonia
+ rhine
+ rhone
+ sahel
+ savannah
+ scandinavian
+ seine
+ serengeti
+ sinai
+ thar
+ tibetan
+ tigris
+ victoria
+ yukon
+ great
+ barrier
+ caspian
+ loch
+ lake
+ superior
+ michigan
+ huron
+ erie
+ ontario
+ victoria
+ tanganyika
+ malawi
+ great
+ titicaca
+ baikal
+ issyk
+ van
+ dead
+ aral
+ lagoda
+ onega
+ peipus
+ saimaa
+ vaenern
+ vaettern
+ mjoesa
+ geneva
+ constance
+ balaton
+ neusiedl
+ como
+ garda
+ maggiore
+ lugano
+ iseo
+ bolsena
+ bracciano
+ trasimeno
+ ochrid
+ prespa
+ skadar
+ pamvotis
+ trichonida
+ vegoritida
+ yliki
+ doa
+ annecy
+ bourget
+ aiguebelette
+ zurich
+ lucerne
+ thun
+ brienz
+ neuchatel
+ bienne
+ morat
+ hallstatt
+ attersee
+ traunsee
+ mondsee
+ wolfgangsee
+ achensee
+ plansee
+ chiemsee
+ starnberg
+ ammersee
+ tegernsee
+ walchensee
+ koenigssee
+ mummelsee
+ titisee
+ steinhuder
+ muertiz
+ ploener
+ wannsee
+ bodom
+ kallavesi
+ paeijaenne
+ nasijaervi
+ orivesi
+ puulavesi
+ haukivesi
+ pyhaejaervi
+ inari
+ siljan
+ storsjoen
+ hornindalsvatnet
+ snasavatnet
+ tyrifjorden
+ femunden
+ randsfjorden
+ mjoesa
+ bandak
+ nisser
+ vratsj
+ adriatic
+ aegean
+ alboran
+ azov
+ balearic
+ bothnia
+ celtic
+ cretan
+ ionian
+ irish
+ ligurian
+ marmara
+ mirtoan
+ north
+ thracian
+ tyrrhenian
+ biscay
+ finland
+ riga
+ lion
+ taranto
+ venice
+ trieste
+ thermaic
+ saronic
+ corinth
+ argolic
+ pagasetic
+ euboean
+ petalion
+ hydra
+ ambracian
+ patras
+ cyprus
+ dodecanese
+ cyclades
+ ionian
+ sardinia
+ corsica
+ sicily
+ malta
+ crete
+ rhodes
+ euboea
+ lesbos
+ chios
+ samos
+ corfu
+ kefalonia
+ zakynthos
+ lemnos
+ thasos
+ samothrace
+ gokceada
+ bozcaada
+ gotland
+ oeland
+ saaremaa
+ hiiumaa
+ bornholm
+ rugen
+ usedom
+ fehmarn
+ zealand
+ funen
+ jutland
+ shetland
+ orkney
+ hebrides
+ faroe
+ iceland
+ greenland
+ svalbard
+ novaya
+ franz
+ new
+ siberian
+ wrangel
+ sakhalin
+ hokkaido
+ honshu
+ shikoku
+ kyushu
+ okinawa
+ taiwan
+ hainan
+ lanka
+ sumatra
+ java
+ borneo
+ sulawesi
+ new
+ guinea
+ luzon
+ mindanao
+ visayas
+ palawan
+ tasmania
+ new
+ zealand
+ fiji
+ samoa
+ tonga
+ hawaii
+ galapagos
+ easter
+ falkland
+ south
+ tierra
+ chilo
+ vancouver
+ queen
+ aleutian
+ kodiak
+ nunivak
+ st
+ lawrence
+ baffin
+ ellesmere
+ victoria
+ banks
+ devon
+ axel
+ newfoundland
+ prince
+ anticosti
+ cape
+ cuba
+ hispaniola
+ jamaica
+ puerto
+ bahamas
+ bermuda
+ barbados
+ trinidad
+ tobago
+ curacao
+ aruba
+ bonaire
+ martinique
+ guadeloupe
+ dominica
+ lucia
+ vincent
+ grenada
+ tobago

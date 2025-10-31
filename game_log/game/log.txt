@@ -1,0 +1,21 @@
+Game Log
+Category: all
+Word: balaenoptera
+Length: 12
+Start Time: 2025-10-31 15:21:16.634611
+
+Letter 'e' -> Correct
+Letter 'q' -> Wrong
+Letter 'w' -> Wrong
+Letter 'r' -> Correct
+Letter 't' -> Correct
+Letter 'd' -> Wrong
+Letter 's' -> Wrong
+Letter 'c' -> Wrong
+Letter 'v' -> Wrong
+
+Summary
+Wrong guesses: 6
+Result: Loss
+Score: 0
+Date & Time: 2025-10-31 15:21:46.661470
